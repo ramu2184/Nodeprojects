@@ -1,0 +1,17 @@
+{
+  "name": "loc8r",
+  "description": "Simple loc8r application",
+  "main": "app.js",
+  "authors": [
+    "Ramarao Emmadi"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
